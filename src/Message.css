@@ -1,0 +1,23 @@
+.message{
+    margin: 10px;
+    width: fit-content;
+    border-radius: 25px;
+}
+.message-userCard,.message-guestCard{
+    border-radius: 50px !important;
+    box-shadow: none !important;
+}
+.MuiTypography-root,.MuiTypography-h5{
+    font-family: 'Balsamiq Sans', cursive !important;
+}
+.message-user{
+    margin-left: auto;
+    color: white;
+    text-align:left !important;
+}
+.message-userCard{
+    background-color: #0b81ff !important;
+}
+.message-guestCard{
+    background-color: lightgrey !important;
+}
